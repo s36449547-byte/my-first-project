@@ -1,0 +1,5 @@
+1. print("Canada")
+2. print("o----")
+3. print(" ||||")
+4. print('*' * 10)
+5. print("♥️")
