@@ -8,7 +8,7 @@
 8. name = 'Tom'
 9. is_published = False
 10. print(is_published)
-11. full_name = 'Liam Smith's
+11. full_name = 'Liam Smith'
 12. age = 26
 13. is_new = True
 14. name = input('What is your name? ')
